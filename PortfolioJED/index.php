@@ -1,0 +1,1 @@
+<?php echo '<h1>Bienvenue sur le Portfolio de Jules-Edouard DELAIRE</h1>'; ?>
